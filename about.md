@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "About"
-description: ""
+title : About
+header : Post About
+group: navigation
 ---
 {% include JB/setup %}
 
