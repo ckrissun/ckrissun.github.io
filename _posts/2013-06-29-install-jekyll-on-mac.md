@@ -2,8 +2,8 @@
 layout: post
 title: "Mac: 安装Jekyll博客系统"
 date: 2013-06-29 16:56
-category: Tool
-tags: [Mac, Tool]
+category: "工具"
+tags: [Mac, 工具]
 ---
 {% include JB/setup %}
 

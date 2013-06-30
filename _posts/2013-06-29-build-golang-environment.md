@@ -2,8 +2,8 @@
 layout: post
 title: "Golang开发环境: vim+gocode"
 date: 2013-06-29 18:02
-category: Development
-tags: [Development]
+category: "开发"
+tags: [开发]
 ---
 {% include JB/setup %}
 
