@@ -6,4 +6,9 @@ group: navigation
 ---
 {% include JB/setup %}
 
-This page is under construction.
+### {{ site.author.name }} 
+#### {{ site.tagline }}
+----------
+
+这家伙很懒，什么也没留下＝。＝!
+

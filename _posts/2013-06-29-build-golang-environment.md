@@ -2,7 +2,7 @@
 layout: post
 title: "Golang开发环境: vim+gocode"
 date: 2013-06-29 18:02
-category: Tool
+category: Development
 tags: [Development]
 ---
 {% include JB/setup %}
