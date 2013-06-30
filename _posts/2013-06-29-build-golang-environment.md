@@ -54,7 +54,7 @@ tags: [Development]
 安装gocode的vim脚本
 
     cd $HOME/go/src/github.com/nsf/gocode/vim (gocode的安装目录下)
-    ./update
+    ./update.sh
     
 启用 filetype plugin
 
