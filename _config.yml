@@ -30,6 +30,8 @@ author :
 #
 production_url : http://ckrissun.github.io
 
+img_url: http://ckrissun.github.io/assets/images
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
