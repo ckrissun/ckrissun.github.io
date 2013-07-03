@@ -8,7 +8,7 @@ tags: [Web CoffeeScript]
 
 {% include JB/setup %}
 
-很好的学习资源，收藏，^_^
+很好的学习资源，收藏，\^_\^
 
 [Coffee is not a coffee: http://coffee-js.github.io/coffeescript.cn/](http://coffee-js.github.io/coffeescript.cn/)
 
