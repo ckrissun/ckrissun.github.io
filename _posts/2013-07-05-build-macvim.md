@@ -21,6 +21,8 @@ Build
                            --enable-perlinterp \
                            --enable-cscope
 
+      make
+
 Install
 
       cp -a src/MacVim/build/Release/MacVim.app ~/Applications/MacVim.app
