@@ -20,7 +20,6 @@ Build
                            --enable-pythoninterp \
                            --enable-perlinterp \
                            --enable-cscope
-
       make
 
 Install
