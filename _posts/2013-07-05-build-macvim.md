@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Build MacVim"
+title: "Mac: Build MacVim"
 date: 2013-07-05 20:50
 category: "工具"
 tags: [Mac 工具]
