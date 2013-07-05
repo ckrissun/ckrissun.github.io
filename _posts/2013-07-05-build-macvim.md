@@ -26,7 +26,15 @@ Install
 
       cp -a src/MacVim/build/Release/MacVim.app ~/Applications/MacVim.app
 
-END ...
+Configure:
+
+      git clone https://github.com/amix/vimrc.git
+
+      and have a look at here (https://github.com/amix/vimrc)
+
+
+Have fun, thanks!
+
 
 ### TO-DO
 + Build MacVim 
