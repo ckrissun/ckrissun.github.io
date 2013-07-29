@@ -15,6 +15,10 @@ just see here
 
 [Remote Packet Capture](http://useyourloaf.com/blog/2012/02/07/remote-packet-capture-for-ios-devices.html)
 
+here, 
+
+[Getting a Packet Trace](http://developer.apple.com/library/mac/#qa/qa1176/_index.html)
+
 and here
 
 [网络模拟与抓包](http://www.cnblogs.com/v2m_/archive/2012/12/19/2825549.html)
